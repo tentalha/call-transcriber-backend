@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+*.log
+coverage/
+.vscode/
+config.bat
+temp_auto_push.bat
+temp_interactive_push.bat
